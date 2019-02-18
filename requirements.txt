@@ -1,0 +1,3 @@
+neomodel
+flask
+marshmallow
